@@ -1,0 +1,63 @@
+year,geography,sector,metric,value,unit,note_or_category,source_url
+2024,United States,Farm,surplus_food_generated,16.9,million_US_short_tons,Farm estimates cover produce only.,https://go.refed.org/l/1063782/2025-10-29/bl3xdz
+2024,United States,Farm,share_of_total_surplus_food,24.2,percent,,https://go.refed.org/l/1063782/2025-10-29/bl3xdz
+2024,United States,Farm,food_waste_generated,14.8,million_US_short_tons,"Surplus food that became food waste, per ReFED fact sheet.",https://go.refed.org/l/1063782/2025-10-29/bl3xdz
+2024,United States,Farm,surplus_food_emissions,3.56,million_metric_tons_CO2e,,https://go.refed.org/l/1063782/2025-10-29/bl3xdz
+2024,United States,Farm,methane_emissions,15200,metric_tons_CH4,,https://go.refed.org/l/1063782/2025-10-29/bl3xdz
+2024,United States,Farm,surplus_food_value,13.4,billion_US_dollars,,https://go.refed.org/l/1063782/2025-10-29/bl3xdz
+2024,United States,Farm,water_embodied_in_surplus_food,621,billion_US_gallons,,https://go.refed.org/l/1063782/2025-10-29/bl3xdz
+2024,United States,Farm,meals_equivalent_to_surplus_food,27.8,billion_meals,,https://go.refed.org/l/1063782/2025-10-29/bl3xdz
+2024,United States,Farm,food_not_harvested,14,million_US_short_tons,,https://go.refed.org/l/1063782/2025-10-29/bl3xdz
+2024,United States,Farm,food_not_harvested_value,11.6,billion_US_dollars,,https://go.refed.org/l/1063782/2025-10-29/bl3xdz
+2024,United States,Residential,surplus_food_generated,23.4,million_US_short_tons,,https://go.refed.org/l/1063782/2025-10-29/bl3xdl
+2024,United States,Residential,share_of_total_surplus_food,33.5,percent,,https://go.refed.org/l/1063782/2025-10-29/bl3xdl
+2024,United States,Residential,food_waste_generated,23.1,million_US_short_tons,"Surplus food that became food waste, per ReFED fact sheet.",https://go.refed.org/l/1063782/2025-10-29/bl3xdl
+2024,United States,Residential,food_waste_sent_to_landfill,11.2,million_US_short_tons,,https://go.refed.org/l/1063782/2025-10-29/bl3xdl
+2024,United States,Residential,share_of_food_waste_sent_to_landfill,48.4,percent,,https://go.refed.org/l/1063782/2025-10-29/bl3xdl
+2024,United States,Residential,surplus_food_emissions,99.8,million_metric_tons_CO2e,,https://go.refed.org/l/1063782/2025-10-29/bl3xdl
+2024,United States,Residential,methane_emissions,1130000,metric_tons_CH4,,https://go.refed.org/l/1063782/2025-10-29/bl3xdl
+2024,United States,Residential,surplus_food_value,141,billion_US_dollars,,https://go.refed.org/l/1063782/2025-10-29/bl3xdl
+2024,United States,Residential,water_embodied_in_surplus_food,4.53,trillion_US_gallons,,https://go.refed.org/l/1063782/2025-10-29/bl3xdl
+2024,United States,Residential,meals_equivalent_to_surplus_food,39,billion_meals,,https://go.refed.org/l/1063782/2025-10-29/bl3xdl
+2024,United States,Residential,top_food_type_surplus_tons,10.5,million_US_short_tons,Produce,https://go.refed.org/l/1063782/2025-10-29/bl3xdl
+2024,United States,Residential,top_food_type_surplus_tons,3.45,million_US_short_tons,Dry Goods,https://go.refed.org/l/1063782/2025-10-29/bl3xdl
+2024,United States,Residential,top_food_type_surplus_tons,2.31,million_US_short_tons,Dairy & Eggs,https://go.refed.org/l/1063782/2025-10-29/bl3xdl
+2024,United States,Manufacturing,surplus_food_generated,13.1,million_US_short_tons,,https://go.refed.org/l/1063782/2025-10-29/bl3xdw
+2024,United States,Manufacturing,share_of_total_surplus_food,18.8,percent,,https://go.refed.org/l/1063782/2025-10-29/bl3xdw
+2024,United States,Manufacturing,food_waste_generated,6.66,million_US_short_tons,"Surplus food that became food waste, per ReFED fact sheet.",https://go.refed.org/l/1063782/2025-10-29/bl3xdw
+2024,United States,Manufacturing,food_waste_sent_to_landfill,0.481,million_US_short_tons,,https://go.refed.org/l/1063782/2025-10-29/bl3xdw
+2024,United States,Manufacturing,share_of_food_waste_sent_to_landfill,7.2,percent,,https://go.refed.org/l/1063782/2025-10-29/bl3xdw
+2024,United States,Manufacturing,surplus_food_emissions,38.6,million_metric_tons_CO2e,,https://go.refed.org/l/1063782/2025-10-29/bl3xdw
+2024,United States,Manufacturing,methane_emissions,491000,metric_tons_CH4,,https://go.refed.org/l/1063782/2025-10-29/bl3xdw
+2024,United States,Manufacturing,surplus_food_value,42.6,billion_US_dollars,,https://go.refed.org/l/1063782/2025-10-29/bl3xdw
+2024,United States,Manufacturing,water_embodied_in_surplus_food,3.86,trillion_US_gallons,,https://go.refed.org/l/1063782/2025-10-29/bl3xdw
+2024,United States,Manufacturing,meals_equivalent_to_surplus_food,21.1,billion_meals,,https://go.refed.org/l/1063782/2025-10-29/bl3xdw
+2024,United States,Manufacturing,top_food_type_surplus_tons,4.92,million_US_short_tons,Dairy & Eggs,https://go.refed.org/l/1063782/2025-10-29/bl3xdw
+2024,United States,Manufacturing,top_food_type_surplus_tons,0.917,million_US_short_tons,Produce,https://go.refed.org/l/1063782/2025-10-29/bl3xdw
+2024,United States,Manufacturing,top_food_type_surplus_tons,0.614,million_US_short_tons,Dry Goods,https://go.refed.org/l/1063782/2025-10-29/bl3xdw
+2024,United States,Foodservice,surplus_food_generated,12.5,million_US_short_tons,,https://go.refed.org/l/1063782/2025-10-29/bl3xdp
+2024,United States,Foodservice,share_of_total_surplus_food,17.9,percent,,https://go.refed.org/l/1063782/2025-10-29/bl3xdp
+2024,United States,Foodservice,food_waste_generated,12.4,million_US_short_tons,"Surplus food that became food waste, per ReFED fact sheet.",https://go.refed.org/l/1063782/2025-10-29/bl3xdp
+2024,United States,Foodservice,food_waste_sent_to_landfill,9.73,million_US_short_tons,,https://go.refed.org/l/1063782/2025-10-29/bl3xdp
+2024,United States,Foodservice,share_of_food_waste_sent_to_landfill,78.4,percent,,https://go.refed.org/l/1063782/2025-10-29/bl3xdp
+2024,United States,Foodservice,surplus_food_emissions,63.6,million_metric_tons_CO2e,,https://go.refed.org/l/1063782/2025-10-29/bl3xdp
+2024,United States,Foodservice,methane_emissions,793000,metric_tons_CH4,,https://go.refed.org/l/1063782/2025-10-29/bl3xdp
+2024,United States,Foodservice,surplus_food_value,156,billion_US_dollars,,https://go.refed.org/l/1063782/2025-10-29/bl3xdp
+2024,United States,Foodservice,water_embodied_in_surplus_food,5.73,trillion_US_gallons,,https://go.refed.org/l/1063782/2025-10-29/bl3xdp
+2024,United States,Foodservice,meals_equivalent_to_surplus_food,20.7,billion_meals,,https://go.refed.org/l/1063782/2025-10-29/bl3xdp
+2024,United States,Foodservice,top_food_type_surplus_tons,11.2,million_US_short_tons,Prepared Foods,https://go.refed.org/l/1063782/2025-10-29/bl3xdp
+2024,United States,Foodservice,top_food_type_surplus_tons,0.268,million_US_short_tons,Dry Goods,https://go.refed.org/l/1063782/2025-10-29/bl3xdp
+2024,United States,Foodservice,top_food_type_surplus_tons,0.223,million_US_short_tons,Dairy & Eggs,https://go.refed.org/l/1063782/2025-10-29/bl3xdp
+2024,United States,Retail,surplus_food_generated,3.98,million_US_short_tons,,https://go.refed.org/l/1063782/2025-10-29/bl3xdh
+2024,United States,Retail,share_of_total_surplus_food,5.7,percent,,https://go.refed.org/l/1063782/2025-10-29/bl3xdh
+2024,United States,Retail,food_waste_generated,2.72,million_US_short_tons,"Surplus food that became food waste, per ReFED fact sheet.",https://go.refed.org/l/1063782/2025-10-29/bl3xdh
+2024,United States,Retail,food_waste_sent_to_landfill,0.989,million_US_short_tons,,https://go.refed.org/l/1063782/2025-10-29/bl3xdh
+2024,United States,Retail,share_of_food_waste_sent_to_landfill,36.3,percent,,https://go.refed.org/l/1063782/2025-10-29/bl3xdh
+2024,United States,Retail,surplus_food_emissions,13.7,million_metric_tons_CO2e,,https://go.refed.org/l/1063782/2025-10-29/bl3xdh
+2024,United States,Retail,methane_emissions,156000,metric_tons_CH4,,https://go.refed.org/l/1063782/2025-10-29/bl3xdh
+2024,United States,Retail,surplus_food_value,26.9,billion_US_dollars,,https://go.refed.org/l/1063782/2025-10-29/bl3xdh
+2024,United States,Retail,water_embodied_in_surplus_food,1.09,trillion_US_gallons,,https://go.refed.org/l/1063782/2025-10-29/bl3xdh
+2024,United States,Retail,meals_equivalent_to_surplus_food,5.21,billion_meals,,https://go.refed.org/l/1063782/2025-10-29/bl3xdh
+2024,United States,Retail,top_food_type_surplus_tons,0.902,million_US_short_tons,Produce,https://go.refed.org/l/1063782/2025-10-29/bl3xdh
+2024,United States,Retail,top_food_type_surplus_tons,0.369,million_US_short_tons,Fresh Meat & Seafood,https://go.refed.org/l/1063782/2025-10-29/bl3xdh
+2024,United States,Retail,top_food_type_surplus_tons,0.347,million_US_short_tons,Prepared Foods,https://go.refed.org/l/1063782/2025-10-29/bl3xdh
